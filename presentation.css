@@ -65,15 +65,13 @@ body {
  a, a:visited {
    text-decoration: none;
  }
- #noplan1, #noplan2, #noplan3, #noplan4, #noplan5 {
-   font-size: 4vw;
+ #noplan1, #noplan2, #noplan3, #noplan4, #noplan5, #noplan6, #noplan7{
+   font-size: 3vw;
    font-family: Ubuntu;
    color: #00ABF0;
    visibility: hidden;
  }
- #noplan5 {
-   color: red;
- }
+ 
  video{
     width: 100vw;
     height: 100vh;
